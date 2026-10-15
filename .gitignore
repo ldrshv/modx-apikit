@@ -1,0 +1,8 @@
+# Настройки с токенами и ключами
+/core/app/config.php
+
+# Служебные файлы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
